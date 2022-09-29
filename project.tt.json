@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "charge-bussness-taro",
+  "description": "首联充电宝商户端小程序",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

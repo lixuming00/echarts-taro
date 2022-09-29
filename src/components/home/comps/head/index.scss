@@ -1,0 +1,33 @@
+.wrapper-home-head {
+  width: 80%;
+  padding: 40px;
+  height: 260px;
+  margin: 0 auto;
+  background: #fff;
+  box-shadow: 0 0 20px #cacaca;
+  border-radius: 30px;
+
+  .balance {
+
+    .number {
+      font-size: 44px;
+      font-weight: bold;
+      margin-right: 10px;
+    }
+  }
+
+
+  .account {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #333;
+    font-size: 24px;
+
+    .number {
+      font-size: 28px;
+      margin-right: 4px;
+      font-weight: bold;
+    }
+  }
+}
