@@ -1,8 +1,8 @@
 {
-  "name": "charge-bussness-taro",
+  "name": "echarts-taro",
   "version": "1.0.0",
   "private": true,
-  "description": "首联充电宝商户端小程序",
+  "description": "test echarts from taro",
   "templateInfo": {
     "name": "taro-ui",
     "typescript": false,
