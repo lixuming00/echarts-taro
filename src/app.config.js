@@ -1,6 +1,7 @@
 export default defineAppConfig({
   pages: [
     'pages/home/index',
+    'pages/test/index',
   ],
   window: {
     backgroundTextStyle: 'light',
@@ -17,7 +18,13 @@ export default defineAppConfig({
         text: '首页',
         iconPath: `./static/images/home.png`,
         selectedIconPath: './static/images/home_.png'
-      }
+      },
+      {
+        pagePath: 'pages/test/index',
+        text: '测试',
+        iconPath: `./static/images/home.png`,
+        selectedIconPath: './static/images/home_.png'
+      },
     ],
     'color': '#BDBDBD',
     'selectedColor': '#fbda31',
